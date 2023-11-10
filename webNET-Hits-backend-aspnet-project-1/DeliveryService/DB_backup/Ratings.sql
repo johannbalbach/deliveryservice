@@ -1,0 +1,1 @@
+INSERT INTO public."Ratings" ("Id", "DishId", "UserId", "RatingScore") VALUES ('0e5b2938-8e70-49e5-ad31-5f55d18308c9', 'e4698ac7-7d9e-456e-2741-08dbc899a338', '442b7e92-51f8-4270-bf4e-f724cb1319f3', 10);
